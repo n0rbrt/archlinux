@@ -6,7 +6,7 @@ set statusline+=%=[%L]
 set number
 set termencoding=utf-8
 set encoding=utf-8
-set fileencodings=utf-8,euc-jp,sjis
+set fileencodings=utf-8
 set fileformat=unix
 color molokai
 
